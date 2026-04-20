@@ -49,31 +49,38 @@ currently:    Learning the math & models behind modern ML
 <div align="center">
 
 <table>
-  <tr><td align="left"><strong>&nbsp;⌨️ &nbsp; Languages&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
-  </td></tr>
-  <tr><td align="left"><strong>&nbsp;🎨 &nbsp; Frontend&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />
-  </td></tr>
-  <tr><td align="left"><strong>&nbsp;⚙️ &nbsp; Backend & Data&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
-  </td></tr>
-
-       <tr><td align="left"><strong>&nbsp;🧠 &nbsp; AI / ML (learning)&nbsp;</strong></td><td>
-  <img src="https://skillicons.dev/icons?i=python" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="48" />
-</td></tr>
-  </td></tr>
-  <tr><td align="left"><strong>&nbsp;⛓️ &nbsp; Blockchain&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=anchor" />&nbsp;
-    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="48" />
-    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" height="48" />
-  </td></tr>
-  <tr><td align="left"><strong>&nbsp;🧰 &nbsp; Tools & DevOps&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux,vscode,bash" />
-  </td></tr>
+  <tr>
+    <td align="left"><strong>&nbsp;⌨️&nbsp; Languages&nbsp;</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,java,c" /></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>&nbsp;🎨&nbsp; Frontend&nbsp;</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" /></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>&nbsp;⚙️&nbsp; Backend & Data&nbsp;</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" /></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>&nbsp;🧠&nbsp; AI / ML (learning)&nbsp;</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />&nbsp;
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />&nbsp;
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>&nbsp;⛓️&nbsp; Blockchain&nbsp;</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="48" />&nbsp;
+      <img src="https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=anchor&logoColor=white" height="48" />&nbsp;
+      <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>&nbsp;🧰&nbsp; Tools & DevOps&nbsp;</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux,vscode,bash,docker" /></td>
+  </tr>
 </table>
 
 </div>
