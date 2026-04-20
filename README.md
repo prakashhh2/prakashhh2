@@ -30,7 +30,7 @@ name:         Prakash Kusari
 education:    BS Computer Science, Data Science concentration
 location:     Hammond, Louisiana
 focus:        Full-stack engineering → AI/ML
-mindset:      "Give me a hard problem and I'll engineer a way through it."
+mindset:      "Give me a hard problem, and I'll engineer a way through it."
 currently:    Learning the math & models behind modern ML
 ```
 
@@ -56,13 +56,13 @@ currently:    Learning the math & models behind modern ML
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />
   </td></tr>
   <tr><td align="left"><strong>&nbsp;⚙️ &nbsp; Backend & Data&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb" />
   </td></tr>
   <tr><td align="left"><strong>&nbsp;🧠 &nbsp; AI / ML (learning)&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,anaconda" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py" />
   </td></tr>
   <tr><td align="left"><strong>&nbsp;⛓️ &nbsp; Blockchain&nbsp;</strong></td><td>
-    <img src="https://skillicons.dev/icons?i=solidity,rust" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=anchor" />&nbsp;
     <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="48" />
     <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" height="48" />
   </td></tr>
@@ -94,7 +94,7 @@ Tamper-proof academic credentials on **Solana** + **IPFS**. Wallet-based auth, &
 <td width="50%" valign="top">
 
 ### 📚 &nbsp;Library Management System
-Full-stack CRUD with optimized SQL, auto fine calculation, responsive UI. Cut manual errors by 50%.
+Full-stack CRUD with optimized SQL, auto fine calculation, and responsive UI. Cut manual errors by 50%.
 
 `Node.js` `MySQL` `JavaScript` `HTML/CSS`
 
