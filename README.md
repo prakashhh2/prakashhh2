@@ -79,7 +79,7 @@ currently:    Learning the math & models behind modern ML
   </tr>
   <tr>
     <td align="left"><strong>&nbsp;🧰&nbsp; Tools & DevOps&nbsp;</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux,vscode,bash,docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux,vscode,bash," /></td>
   </tr>
 </table>
 
