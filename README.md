@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Prakash 👋
 
-<!--
-**prakashhh2/prakashhh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Southeastern Louisiana University**, concentrating in Data Science. I like building things that are fast, accessible, and a little ambitious — from React frontends to blockchain-backed verification systems.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Exploring full-stack development with the **MERN** stack and **Next.js**
+- Getting deeper into **data structures, algorithms, and system design**
+- Experimenting with **Solana / Web3** and decentralized app architecture
+- Aspiring to build a career in **AI / ML** — currently learning the fundamentals and exploring applied projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I work with
+**Languages:** JavaScript (ES6+), TypeScript, Python, Java, SQL
+**Frontend:** React, Next.js, TailwindCSS, Redux
+**Backend:** Node.js, Express, REST APIs, MySQL, PostgreSQL, MongoDB
+**DevOps & Tools:** Git, Docker, GitHub Actions, Vercel, Linux (Arch)
+**Other:** Solana Web3.js, Anchor, IPFS, NumPy, Pandas
+
+### 🚀 Projects I'm proud of
+- **Decentralized Certificate Verification Platform** — tamper-proof academic credentials on Solana with IPFS storage and sub-2-second verification
+- **Library Management System** — full-stack CRUD app with automated fine calculations and optimized SQL queries
+- **Terminal Voice Assistant** — Python OOP + speech recognition to automate everyday desktop tasks
+
+### 📫 Reach me
+- 📧 prakashkusari0@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/prakashkusari)
+
+---
+
+*Always open to collaboration, internships, and interesting problems.*
