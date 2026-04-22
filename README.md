@@ -147,8 +147,7 @@ Exploring applied ML — classification, NLP, and small LLM projects. **Acceptin
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashhh2&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" height="165" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashhh2&hide_border=true&background=0d1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="165" />
 </div>
 
 <br/>
