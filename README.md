@@ -6,7 +6,7 @@
 
 <!-- ─── Animated typing banner ─── -->
 <a href="https://github.com/prakashhh2">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Prakash+%F0%9F%91%8B;Problem-solver+by+nature;Engineer+by+craft;Future+AI%2FML+builder+%F0%9F%A7%A0" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Prakash+%F0%9F%91%8B;Problem-solver+by+nature;Engineer+by+craft;" alt="Typing animation" />
 </a>
 
 <!-- ─── Animated wave + subtitle ─── -->
@@ -29,7 +29,6 @@
 name:         Prakash Kusari
 education:    BS Computer Science, Data Science concentration
 location:     Hammond, Louisiana
-focus:        Full-stack engineering → AI/ML
 mindset:      "Give me a hard problem, and I'll engineer a way through it."
 currently:    Learning the math & models behind modern ML
 ```
